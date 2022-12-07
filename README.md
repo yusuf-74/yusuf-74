@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusuf-74
 - 👀 I’m interested in software industry and problem solving 
-- 🌱 I’m currently learning oop , data structure and other things like that;
+- 🌱 I’m currently working as full-time software developer @ bld.ai 
 - 📫 How to reach me facebook profile-link (https://www.facebook.com/yousef.ashour.52035)
 
 <!---
